@@ -4,5 +4,6 @@
  * Блог: [k-v-khen.blogspot.com](http://k-v-khen.blogspot.com/)
  * Почтовый адрес: P.O.B. 28162, Jerusalem 9128101, Israel. Mr. Valery Khenkin (Valeriy Khenkon).
  * E-mail: k.v.khen(at)gmail.com, valeergiy(at)gmail.com.
- * Телефон: +972-54-564-8xxx, 054-564-8xxx.
+ * Телефон: +972-54-564-8xxx, 054-564-8xxx, (Viber, Telegram).
+ * Skype: vale-er-giy.
 
