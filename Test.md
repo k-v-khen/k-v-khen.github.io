@@ -1,6 +1,6 @@
 # Проверки формул и рисунков
 
-$$ \Huge{\Cap} ~~~ \aleph \, \Huge{\aleph} ~~~ \beth \, \Huge{\beth} ~~~ \gimel \, \Huge{\gimel} \daleth ~ ~ \Huge{\daleth} $$
+$$ \Huge{\Cap} ~~~ \small{\aleph} \, \Huge{\aleph} ~~~ \beth \, \Huge{\beth} ~~~ \small{\gimel} \, \Huge{\gimel} \daleth ~ ~ \Huge{\daleth} $$
 
 $$ x^n + y^n = z^n  \, ~~~ \aleph \, \beth ~ \bigoplus ~ \vert \, \biguplus \\ \oint \, \bigotimes \mid \, \cong \\ \boxplus \bigstar \Huge{\mid}  $$
 
