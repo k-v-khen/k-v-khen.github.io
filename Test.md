@@ -2,13 +2,13 @@
 
 $$ \Huge \Cap $$
 
-$$ \Huge \aleph $$
+$$ \aleph \Huge \aleph $$
 
-$$ \Huge \beth $$
+$$ \beth \Huge \beth $$
 
-$$ \Huge \gimel $$
+$$ \gimel \Huge \gimel $$
 
-$$ \Huge \daleth $$
+$$ \daleth \Huge \daleth $$
 
 $ x^n + y^n = z^n  \aleph \beth $
 
