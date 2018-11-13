@@ -2,13 +2,13 @@
 
 $$ \Huge \Cap $$
 
-$$ \color{red} \Huge \aleph $$
+$$ \Huge \aleph $$
 
-$$ \color{blue} \Huge \beth $$
+$$ \Huge \beth $$
 
-$$ \color{blue} \Huge \gimel $$
+$$ \Huge \gimel $$
 
-$$ \color{green} \Huge \daleth $$
+$$ \Huge \daleth $$
 
 $ x^n + y^n = z^n $
 
