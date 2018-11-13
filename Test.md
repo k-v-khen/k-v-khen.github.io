@@ -2,7 +2,7 @@
 
 $$ \Huge \Cap $$
 
-$$ \Huge \aleph $$
+$$ \Huge{\aleph} $$
 
 $$ \Huge \beth $$
 
