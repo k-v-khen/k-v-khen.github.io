@@ -1,6 +1,6 @@
 # Проверки формул и рисунков
 
-$$ \Huge \Cap $$
+$ \Huge \Cap $
 
 $$ \aleph \, \Huge \aleph $$
 
@@ -10,7 +10,7 @@ $$ \gimel \, \Huge \gimel $$
 
 $$ \daleth ~ ~ \Huge \daleth $$
 
-$ x^n + y^n = z^n  \, ~~~ \aleph \, \beth ~ \bigoplus ~ \vert \, \biguplus \\ \oint \oiiint \, \bigotimes \mid \cong \\ \boxplus \bigstar \Huge{\mid}  $
+$$ x^n + y^n = z^n  \, ~~~ \aleph \, \beth ~ \bigoplus ~ \vert \, \biguplus \\ \oint \oiint \, \bigotimes \mid \cong \\ \boxplus \bigstar \Huge{\mid}  $$
 
 $$ \lim_{n \to \infty} 
   \sum_{k=1}^n \frac{1}{k^2} 
