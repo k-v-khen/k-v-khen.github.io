@@ -2,13 +2,13 @@
 
 $ \Huge \Cap $
 
-$$ \aleph \, \Huge \aleph $$
+$ \aleph \, \Huge \aleph $
 
-$$ \beth \, \Huge \beth $$
+$ \beth \, \Huge \beth $
 
-$$ \gimel \, \Huge \gimel $$
+$ \gimel \, \Huge \gimel $
 
-$$ \daleth ~ ~ \Huge \daleth $$
+$ \daleth ~ ~ \Huge \daleth $
 
 $$ x^n + y^n = z^n  \, ~~~ \aleph \, \beth ~ \bigoplus ~ \vert \, \biguplus \\ \oint \oiint \, \bigotimes \mid \cong \\ \boxplus \bigstar \Huge{\mid}  $$
 
