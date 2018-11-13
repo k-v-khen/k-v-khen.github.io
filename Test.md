@@ -3,7 +3,7 @@
 $$ \Huge{\Cap} ~~~ \small{\aleph} \, \Huge{\aleph} ~~~ \beth \, \Huge{\beth} ~~~ \small{\gimel} \, \Huge{\gimel} \daleth ~ ~ \Huge{\daleth} $$
 
 $$ x^n + y^n = z^n  \, ~~~ \aleph \, \beth ~ \bigoplus ~ \vert \, \biguplus \\ \oint \, \bigotimes \mid \, \cong \\ \boxplus \bigstar \Huge{\mid} \\
-\theta \, \vartheta \, \Theta \, \zeta \,\sigma \,\! \Sigma\;	\sigma \Sigma $$
+\theta \, \vartheta \, \Theta \, \  \zeta \,\sigma \,\! \Sigma\;	\sigma \ \Sigma $$
 
 $$ \lim_{n \to \infty} 
   \sum_{k=1}^n \frac{1}{k^2} 
