@@ -1,5 +1,15 @@
 # Проверки формул и рисунков
 
+$$ \Huge \Cap $$
+
+$$ \color{red} \Huge \aleph $$
+
+$$ \color{blue} \Huge \beth $$
+
+$$ \color{blue} \Huge \gimel $$
+
+$$ \color{green} \Huge \daleth $$
+
 $ x^n + y^n = z^n $
 
 $$ \lim_{n \to \infty} 
