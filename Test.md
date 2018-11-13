@@ -2,7 +2,7 @@
 
 $$ \Huge \Cap $$
 
-$$ \Huge{\aleph} $$
+$$ \Huge \aleph $$
 
 $$ \Huge \beth $$
 
@@ -10,7 +10,7 @@ $$ \Huge \gimel $$
 
 $$ \Huge \daleth $$
 
-$ x^n + y^n = z^n $
+$ x^n + y^n = z^n  \aleph \beth $
 
 $$ \lim_{n \to \infty} 
   \sum_{k=1}^n \frac{1}{k^2} 
