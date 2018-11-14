@@ -19,6 +19,12 @@ $ \lim_{n \to \infty}
 
 # Ccылки 
 
+## Полезное для Markdown
+ * [Что такое Markdown](https://guides.hexlet.io/markdown/)
+ * [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+ * [Extended Syntax](https://www.markdownguide.org/extended-syntax)
+ * [GitHub Flavored Markdown Spec](https://github.github.com/gfm)
+
 ## Полезное для LaTeX
  * [KaTeX Supported Functions](https://katex.org/docs/supported.html), [KaTeX index](https://katex.org/docs/support_table.html)
  * [MathJax TeX and LaTeX Support](https://docs.mathjax.org/en/latest/tex.html)
