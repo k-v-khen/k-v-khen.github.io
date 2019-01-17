@@ -41,6 +41,6 @@ $ \lim_{n \to \infty}
 
 ## Евреи и математика в России
  * [Дынкин и Пятецкий-Шапиро](http://dynkincollection.library.cornell.edu/sites/default/files/Piatetsky-Shapiro%20(RUS),%20Ithaca,%20N.%20Y.%20,%20Nov.%2017,%201978.pdf)
- * []()
+ 
  
 
