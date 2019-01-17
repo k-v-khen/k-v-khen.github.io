@@ -38,5 +38,9 @@ $ \lim_{n \to \infty}
 * [А. А. Ляпунов "Об использовании математических машин в логических целях"](http://pco.iis.nsk.su/simics/informatics/fet/lyapun-2.htm)
 * [А. П. Ершов. "Учитель"](http://pco.iis.nsk.su/simics/informatics/fet/ershov.htm)
 * [А. И. Фет "Воспоминания об Алексее Андреевиче Ляпунове"](http://pco.iis.nsk.su/simics/informatics/fet/afet.htm)
+
+## Евреи и математика в России
+ * [Дынкин и Пятецкий-Шапиро](http://dynkincollection.library.cornell.edu/sites/default/files/Piatetsky-Shapiro%20(RUS),%20Ithaca,%20N.%20Y.%20,%20Nov.%2017,%201978.pdf)
+ * []()
  
 
