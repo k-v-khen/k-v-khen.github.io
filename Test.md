@@ -35,7 +35,7 @@ $ \lim_{n \to \infty}
 ---
 
 ## История
-* [А. А. Ляпунов "Об использовании математических машин в логических целях"](http://pco.iis.nsk.su/simics/informatics/fet/lyapun-2.htm)
+* [А. А. Ляпунов "Об использовании математических машин в логических целях"](http://pco.iis.nsk.su/simics/informatics/fet/lyapun-2.htm) (24.06.1954)
 * [А. П. Ершов. "Учитель"](http://pco.iis.nsk.su/simics/informatics/fet/ershov.htm)
 * [А. И. Фет "Воспоминания об Алексее Андреевиче Ляпунове"](http://pco.iis.nsk.su/simics/informatics/fet/afet.htm)
 
