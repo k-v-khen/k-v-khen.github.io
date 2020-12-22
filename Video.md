@@ -1,5 +1,12 @@
 # Видео
 
+### 2020 год
+
+[Презентация 1](https://youtu.be/p0auqkE_koU)
+
+[Презентация 2](https://youtu.be/dg3pVQNmfxI)
+
+
 ### 1) 09.06.1996
 
 https://youtu.be/Z6YrR_lMRko
